@@ -1,2 +1,6 @@
-# MyHometown
-MyHometown,just a little repository for programming
+include<stdio.h>
+
+int main(void)
+{
+  printf("Hello,GitHub");
+}
